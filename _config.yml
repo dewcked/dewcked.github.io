@@ -32,9 +32,9 @@ disqus: 'dewckedcomment'
 
 permalink: /:year/:month/:title
 paginate: 3
-
+# usage : {% seo %} {% include_cached xxx.thml %}
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate', 'jemoji']
+gems: ['jekyll-paginate', 'jemoji', 'jekyll-mentions', 'jekyll-redirect-from', 'jekyll-feed', 'jekyll-sitemap', 'jekyll-seo-tag', 'jekyll-include-cache']
 
 exclude: ['README.md', 'LICENSE']
