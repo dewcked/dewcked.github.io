@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "프로그래밍 잘 하는 방법"
+date: 2019-3-23 16:25:06 -0700
 category: programming
 ---
 
