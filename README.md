@@ -5,6 +5,9 @@ Jekyll Clean
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
 
+* emoji guide 1 https://emoji.muan.co/
+* emoji guide 2 https://www.webfx.com/tools/emoji-cheat-sheet/
+
 A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
 (not to be confused with jekyll-bootstrap) that's easy to modify and very
 modular in component and element reuse.
