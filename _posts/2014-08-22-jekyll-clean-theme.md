@@ -13,12 +13,12 @@ Welcome to the sample post for the Jekyll Clean theme. :gem:
 
 A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
 (not to be confused with jekyll-bootstrap) that's easy to modify and very
-modular in component and element reuse.
+modular in component and element reuse. :cat:
 
 It uses Disqus for comments and includes Google Analytics support. Both of
 these features are disabled by default and can be enabled via \_config.yml. You
 can also rip this code out of the templates if you like (footer.html and post.html).
-The beauty of Jekyll - keep things clean... Jekyll Clean!
+The beauty of Jekyll - keep things clean... Jekyll Clean! :music:
 
 The theme works well on mobile phones, using a collapsable nav bar and hiding the
 sidebar. The links pane in the sidebar is available on mobile through the nav menu,
