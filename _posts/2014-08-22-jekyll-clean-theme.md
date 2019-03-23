@@ -9,7 +9,7 @@ comments: true
 * See the [live demo](https://scotte.github.io/jekyll-clean).
 * See it [in action on my own blog](https://scotte.org).
 
-Welcome to the sample post for the Jekyll Clean theme.
+Welcome to the sample post for the Jekyll Clean theme. :gem:
 
 A simple and clean Jekyll theme using [bootstrap](http://getbootstrap.com)
 (not to be confused with jekyll-bootstrap) that's easy to modify and very
