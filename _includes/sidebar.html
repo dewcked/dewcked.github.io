@@ -3,6 +3,19 @@
 </div>
 
 <div class="sidebar well">
+    <ul>
+{% assign pages_list = site.pages %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+      <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+      href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+  {% endif %}
+{% endfor %}
+    </ul>
+</div>
+
+
+<div class="sidebar well">
     <h1>Recent Posts</h1>
     <ul>
         {% for post in site.posts limit:5 %}
