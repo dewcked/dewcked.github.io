@@ -1,4 +1,4 @@
 ---
 layout: category
-title: [U]workflow
+title: U-workflow
 ---
