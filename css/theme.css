@@ -88,7 +88,7 @@ h6 {
 }
 
 .bg-primary {
-    background-image: linear-gradient(to bottom, #48c6ef, #6f86d6);
+    background-image: url(../images/space);
     border: 0px;
 }
 .navbar-nav li a:hover{
