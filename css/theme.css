@@ -95,3 +95,4 @@ a:hover{
 
 .active not( :hover ){
     background-color: #4285f4;
+}
