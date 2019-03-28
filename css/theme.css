@@ -63,3 +63,10 @@ h6 {
 .head-color {
     background-color: #4285f4;
 }
+
+.navbar-dark .navbar-brand:hover {
+    color: #fff;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
