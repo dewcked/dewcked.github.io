@@ -85,3 +85,9 @@ a:hover{
 .active a:hover{
     color: #fff
 }
+.sidebar a{
+    color: #B3B3F5;
+}
+.sidebar a:hover{
+    color: #B3B3F5;
+}
