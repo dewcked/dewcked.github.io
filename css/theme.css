@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom left, #13547a, #80d0c7);
+    background-image: linear-gradient(to bottom, #5A0000, #000000);
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -15,6 +15,22 @@ body {
 .footer a {
     color: #ee4444;
 }
+
+.copyright {
+    color: #ffffff;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer a {
+    color: #ee4444;
+}
+
+.sidebar h1 {
+    color: #ee4444;
+    font-size: 1.3em;
 
 .sidebar h1 {
     color: #ee4444;
