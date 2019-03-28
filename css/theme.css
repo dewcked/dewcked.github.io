@@ -43,9 +43,9 @@ body {
 }
 .well h1 {
     font-size: 1.3em;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid;
     padding-bottom: 1rem;
-    color: #9DDCFC;
+    color: #e3e3e3;
 }
 
 
