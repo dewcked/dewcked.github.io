@@ -94,6 +94,3 @@ a:hover{
 .sidebar a:hover{
     color: #B3B3F5;
 }
-.active:not(:hover){
-    background-color: #4285f4;
-}
