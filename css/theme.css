@@ -2,6 +2,8 @@ body {
     background-image: url("../images/space.jpg");
     padding-top: 60px;
     padding-bottom: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .copyright {
