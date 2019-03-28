@@ -93,10 +93,11 @@ h6 {
 }
 
 .bg-primary {
+    background-color: #ffffff;
     background-image: linear-gradient(to bottom, #48c6ef, #6f86d6);
     border: 0px;
 }
-.navbar li a:hover{
+.nav li a:hover{
     background-image: linear-gradient(to bottom, rgba(72,198,239,0.75), rgba(111,134,214,0.75));
     border: 0px;
 }
