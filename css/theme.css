@@ -48,10 +48,14 @@ body {
     color: #e3e3e3;
 }
 h2 {
-    margin-top: 2rem;
+    margin-top: 1rem;
     color: #90ee90;
     border-left: 4px solid #90ee90;
     padding-left: 0.5rem;
+}
+h5 {
+    margin-top: 0,5rem;
+    color: #87cefa;
 }
 
 .author {
