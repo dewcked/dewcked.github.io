@@ -92,7 +92,7 @@ h6 {
     background-color: #4285f4;
 }
 
-.bg-primary {
+[strong].bg-primary {
     background-color: #ffffff;
     background-image: linear-gradient(to bottom, #48c6ef, #6f86d6);
     border: 0px;
