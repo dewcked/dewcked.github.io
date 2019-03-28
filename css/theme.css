@@ -1,5 +1,5 @@
 body {
-    background: #000000;
+    background: #757575;
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -58,7 +58,7 @@ h6 {
     padding-left: 0.5rem;
 }
 .well {
-    background: rgb(96, 96, 96);
+    background: #323232
 }
 .head-color {
     background-color: #4285f4;
