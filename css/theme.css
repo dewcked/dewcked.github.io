@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to bottom, #5A0000, #000000);
+    background-image: url("../images/space.jpg");
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -88,7 +88,7 @@ h6 {
 }
 
 .bg-primary {
-    background-image: url("../images/space");
+    background-image: linear-gradient(to bottom, #48c6ef, #6f86d6);
     border: 0px;
 }
 .navbar-nav li a:hover{
