@@ -60,6 +60,9 @@ h6 {
 .well {
     background: #323232;
 }
+.well h1{
+    color: #9DDCFC;
+}
 .head-color {
     background-color: #4285f4;
 }
