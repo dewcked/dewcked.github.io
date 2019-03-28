@@ -64,6 +64,15 @@ h6 {
     background-color: #4285f4;
 }
 
-.nav {
+.navbar-dark .navbar-brand:hover {
     color: #fff;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+.active a{
+    color: #fff
+}
+.active a{
+    color: #fff
 }
