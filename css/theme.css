@@ -78,6 +78,7 @@ h6 {
 
 .bg-primary {
     background-image: linear-gradient(to bottom, #48c6ef, #6f86d6);
+    border: 0px;
 }
 
 a{
