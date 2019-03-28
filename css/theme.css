@@ -50,8 +50,8 @@ body {
 h2 {
     margin-top: 1rem;
     color: #90ee90;
-    border-left: 4px solid #90ee90;
-    padding-left: 0.5rem;
+    border-bottom: 0.5px solid #90ee90;
+    padding-bottom: 0.5rem;
 }
 h5 {
     margin-top: 0,5rem;
