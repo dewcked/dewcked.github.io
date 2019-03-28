@@ -70,6 +70,12 @@ h6 {
 .navbar-dark .navbar-brand {
     color: #fff;
 }
+a{
+    color: #fff;
+}
+a:hover{
+    color: #fff;
+}
 .active a{
     color: #fff
 }
