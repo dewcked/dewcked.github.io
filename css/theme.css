@@ -47,7 +47,12 @@ body {
     padding-bottom: 1rem;
     color: #e3e3e3;
 }
-
+h2 {
+    margin-top: 2rem;
+    color: #90ee90;
+    border-left: 4px solid #90ee90;
+    padding-left: 0.5rem;
+}
 
 .author {
     color: #ee4444;
