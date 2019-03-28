@@ -76,12 +76,10 @@ h6 {
     background-color: #4285f4;
 }
 
-.navbar-dark .navbar-brand:hover {
-    color: #fff;
+.bg-primary {
+    background-image: linear-gradient(to-bottom, #48c6ef, #6f86d6);
 }
-.navbar-dark .navbar-brand {
-    color: #fff;
-}
+
 a{
     color: #fff;
 }
