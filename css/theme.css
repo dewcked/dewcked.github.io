@@ -62,6 +62,7 @@ h6 {
     color: #fff
 }
 .well h1{
+    border-bottom: 1px solid #000000;
     color: #9DDCFC;
 }
 .head-color {
