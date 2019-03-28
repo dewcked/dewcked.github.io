@@ -73,6 +73,6 @@ h6 {
 .active a{
     color: #fff
 }
-.active a{
+.active a:hover{
     color: #fff
 }
