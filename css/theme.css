@@ -99,7 +99,10 @@ h6 {
     background-image: linear-gradient(to bottom, rgba(72,198,239,0.75), rgba(111,134,214,0.75));
     border: 0px;
 }
-
+.nav > li > a:focus{
+    background-color: transparent;
+    border: 0px;
+}
 h1 a{
     color: #4285f4;
 }
