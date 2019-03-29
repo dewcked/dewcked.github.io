@@ -121,6 +121,7 @@ h1 a:hover{
 .sidebar a:hover{
     color: #4285f4;
 }
-.bs-example-navbar-collapse-1 {
+.navbar-toggle {
+    background-color: #ffffff;
     color: #ffffff;
 }
