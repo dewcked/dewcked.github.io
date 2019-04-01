@@ -9,8 +9,8 @@
           <div class="article">
             <div class="well">
                 <h1>{{ page.date | date: "%b %-d, %Y" }}<br/>
-                    <a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}<div id="wrapper">
-                        <h1 class="vectro"><span class="vectro-body">VECTRO</span></h1>
+                    <a href="{{ site.baseurl}}{{ page.url }}"><div id="wrapper">
+                        <h1 class="vectro"><span class="vectro-body">{{ page.title }}</span></h1>
                     </div></a>
             {% if site.comments and page.comments %}
                 {% if site.disqus != '' %}
