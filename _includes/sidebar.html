@@ -2,19 +2,7 @@
 {{ site.description }}
 </div>
 
-<div class="sidebar well">
-    <h1>Categories</h1>
-    <ul>
-{% assign pages_list = site.pages %}
-{% for node in pages_list %}
-  {% if node.title != null %}
-      <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
-      href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-  {% endif %}
-{% endfor %}
-    </ul>
-</div>
-
+:% include categories.html %}
 
 <div class="sidebar well">
     <h1>Recent Posts</h1>
@@ -25,6 +13,8 @@
     </ul>
 </div>
 
+<!--
 <div class="sidebar well">
 {% include links-list.html %}
 </div>
+-->
