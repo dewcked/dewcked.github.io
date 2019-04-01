@@ -8,10 +8,10 @@
         <div class="col-md-9">
           <div class="article">
             <div class="well">
-                <h1>{{ page.date | date: "%b %-d, %Y" }}<br/>
-                    <a href="{{ site.baseurl}}{{ page.url }}"><div id="wrapper">
-                        <h1 class="vectro"><span class="vectro-body">{{ page.title }}</span></h1>
-                    </div></a>
+                {{ page.date | date: "%b %-d, %Y" }}<br/>
+                <a href="{{ site.baseurl}}{{ page.url }}"><div id="wrapper">
+                    <h1 class="vectro"><span class="vectro-body">{{ page.title }}</span></h1>
+                </div></a>
             {% if site.comments and page.comments %}
                 {% if site.disqus != '' %}
                 <p class="author"><a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a></p>
