@@ -98,12 +98,6 @@ h6 {
     background-color: transparent;
     border: 0px;
 }
-h1 a{
-    color: #4285f4;
-}
-h1 a:hover{
-    color: #4285f4;
-}
 .active a{
     color: #fff;
 }
