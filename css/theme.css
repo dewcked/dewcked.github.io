@@ -104,12 +104,6 @@ h6 {
 .active a:hover{
     color: #fff;
 }
-.sidebar a{
-    color: #4285f4;
-}
-.sidebar a:hover{
-    color: #4285f4;
-}
 .navbar-toggle{
     border: 1px solid #ffffff;
 }
