@@ -7,6 +7,23 @@
         </div>
         <div class="col-md-9">
           <div class="article">
+              
+            <div class="well">
+                <ul class="posts-list">
+                  {% assign category = page.category | default: page.title %}
+                  {% for post in site.categories[category] %}
+                    <li>
+                      <a href="{{ site.baseurl }}{{ post.url }}">
+                        {{ post.title }}
+                      </a>
+                      <small>{{ post.date | date_to_string }}</small>
+
+                    </li>
+                  {% endfor %}
+
+                </ul>
+            </div>
+
             <div class="well">
                 {{ page.date | date: "%b %-d, %Y" }}
                 <h1 id="wrapper"><a class="vectro vectro-body" href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h1></br>
