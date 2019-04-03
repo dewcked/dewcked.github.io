@@ -101,9 +101,12 @@ h3 {
 .navbar-toggle{
     border: 1px solid #ffffff;
 }
-
-
-
+img{
+    vertical-align: middle;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 
 
 
