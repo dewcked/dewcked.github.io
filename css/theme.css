@@ -39,7 +39,7 @@ body {
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
     border-top: 0px;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 0px;
 }
 .well:not(.sidebar) h1 {
     color: #6f86d6;
