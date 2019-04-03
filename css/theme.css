@@ -33,9 +33,6 @@ body {
 .footer a {
     color: #ee4444;
 }
-.siderbar h1{
-    border-bottom: 1px solid #ffffff;
-}
 .well h1 {
     color: #6f86d6;
     font-size: 2.3em;
@@ -43,6 +40,10 @@ body {
     margin-bottom: 0.5rem;
     border-top: 2px solid #6f86d6;
     border-bottom: 2px solid #6f86d6;
+}
+.siderbar h1{
+    border-top: 0px;
+    border-bottom: 1px solid #ffffff;
 }
 .well a {
     color: #48c6ef;
