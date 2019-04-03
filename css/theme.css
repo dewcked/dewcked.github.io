@@ -113,6 +113,8 @@ h3 {
 
 
 .vectro {
+    border-top: 0px;
+    border-bottom: 0px;
   position: relative;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke: 0.1px #f1f1f1;
