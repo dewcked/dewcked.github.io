@@ -52,6 +52,22 @@
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
               {% endif %}
           </div>
+        <div class="well">
+                <ul class="posts-list">
+                  {% assign category = page.category | default: page.title %}
+                  {% for post in site.categories[category] %}
+                    <li>
+                      <a href="{{ site.baseurl }}{{ post.url }}">
+                        {{ post.title }}
+                      </a>
+                      <small>{{ post.date | date_to_string }}</small>
+
+                    </li>
+                  {% endfor %}
+
+                </ul>
+            </div>
+        {% include categories_fold.html %}
         </div>
     </div>
 </div>
