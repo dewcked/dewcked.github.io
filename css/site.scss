@@ -4,7 +4,8 @@
 @import "assets/stylesheets/bootstrap";
 
 table {
-  @extend .table .table-bordered;
+  @extend .table;
+  @extend .table-bordered;
 }
 
 .well {
