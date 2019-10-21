@@ -38,3 +38,6 @@ markdown: kramdown
 gems: ['jekyll-paginate', 'jemoji', 'jekyll-mentions', 'jekyll-redirect-from', 'jekyll-feed', 'jekyll-sitemap', 'jekyll-seo-tag', 'jekyll-include-cache']
 
 exclude: ['README.md', 'LICENSE']
+
+sass:
+    style: :compressed
