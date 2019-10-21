@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Righteous);
-
+@import bootstrap.min
+    
 body {
     background-color: #000000;
     background-image: url("../images/atom.jpg");
@@ -191,4 +192,7 @@ h3 {
 .windows .vectro-blue {
   padding-right: 30px;
   margin-left: -30px;
+}
+table {
+  @extend .table;
 }
